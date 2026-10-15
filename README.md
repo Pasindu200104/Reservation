@@ -146,7 +146,7 @@ Click an account on the login page to sign in. There are no passwords in this de
 
 ## Database design
 
-Four tables. An ER diagram is available here: **[ADD YOUR DBDIAGRAM LINK HERE]**. The source for it is in `database/er-diagram.dbml`.
+Four tables. An ER diagram is available here: **https://dbdiagram.io/d/Reservation-ER-6ad06369aebfe7a21ff4fba3**. The source for it is in `database/er-diagram.dbml`.
 
 | Table | Purpose |
 | --- | --- |
